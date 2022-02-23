@@ -1,0 +1,3 @@
+pipeline 
+     stages 
+        stage any
